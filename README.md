@@ -31,7 +31,7 @@
 
    You should see the WebDriver version displayed in the output.
 ### Opening the Folder
-1. Download VS Code as a Code Editor. Download this repository as a zip file , then extract it and Open this folder with VS CODE.
+1. Download VS Code(preferrable) as a Code Editor. Download this repository as a zip file , then extract it and Open this folder in the code editor.
 ### Functions
 
 1. MassDM -> This file is responsible for sending Dm's to all the usernames in the User_List Excel file. To run this code type python MassDM.py in the terminal, All the users to which the message has been sent will be moved to the Blacklist Excel file so that there should be not repeat messages to the same user.
