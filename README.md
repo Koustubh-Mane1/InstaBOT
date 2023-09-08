@@ -1,7 +1,7 @@
 # InstaBot
 ### Installing Python:
 
-1. *Download Python:* Visit the official Python website at https://www.python.org/downloads/ and download the latest version of Python for your operating system (Windows, macOS, or Linux).
+1. *Download Python:* Visit the official Python website at https://www.python.org/downloads/ and download the latest version of Python for your operating system (Windows).
 
 2. *Run the Installer:* Run the downloaded installer. Make sure to check the box that says "Add Python X.Y to PATH" during the installation process (replace X.Y with your Python version). This option ensures that Python is added to your system's PATH environment variable, making it easier to run Python from the command line.
 
