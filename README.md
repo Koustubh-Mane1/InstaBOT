@@ -30,3 +30,14 @@
    
 
    You should see the WebDriver version displayed in the output.
+### Opening the Folder
+1. Download VS Code as a Code Editor. Download this repository as a zip file , then extract it and Open this folder with VS CODE.
+### Functions
+
+1. MassDM -> This file is responsible for sending Dm's to all the usernames in the User_List Excel file. To run this code type python MassDM.py in the terminal, All the users to which the message has been sent will be moved to the Blacklist Excel file so that there should be not repeat messages to the same user.
+2. Like_Recent -> This file is responsible for liking the recent page of all the usernames in the User_List Excel file. To run this code type python Like_Recent.py in the terminal.
+3. RecentPostSend -> This file is responsible for sending a DM with the recent post of the sender to all the usernames in the User_List Excel file. To run this code type python RecentPostSend.py in the terminal.
+4. Unfollow -> This file is responsible for Unfollowing  all the usernames in the User_List Excel file. To run this code type python Unfollow.py in the terminal.
+
+   
+   
